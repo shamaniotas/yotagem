@@ -1,0 +1,6 @@
+[submodule "three.js"]
+	path = three.js
+	url = git://github.com/mrdoob/three.js.git
+[submodule "gae-simpleauth"]
+	path = gae-simpleauth
+	url = https://code.google.com/p/gae-simpleauth
